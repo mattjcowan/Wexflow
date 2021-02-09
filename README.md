@@ -1,7 +1,6 @@
-![Logo](https://aelassas.github.io/wexflow/images/wd-logo-4.jpg)
+This is a fork of the Wexflow project that recently disappeared from GitHub, forked at v5.3
 
-[![Downloads](https://img.shields.io/github/downloads/aelassas/Wexflow/total.svg)](https://wexflow.github.io/stats)
-[![Nuget](https://img.shields.io/nuget/v/Wexflow)](https://www.nuget.org/packages/Wexflow)
+Previous project existed at: https://github.com/aelassas/Wexflow
 
 ## Download
 
